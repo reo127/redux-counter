@@ -1,0 +1,18 @@
+.btn{
+    all: unset;
+    cursor: pointer;
+    padding: 2px;
+    font-size: 100px;
+    margin: 0px 20px;
+}
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn:hover{
+    color: crimson;
+}
+.count{
+    font-size: 14rem;
+}
